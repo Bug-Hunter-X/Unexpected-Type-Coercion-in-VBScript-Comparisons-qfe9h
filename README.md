@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript: unexpected type coercion during comparisons.  VBScript's dynamic typing can lead to comparisons yielding unexpected results if the operands are not of the same type. The `bug.vbs` file showcases the problem, while `bugSolution.vbs` provides a solution.
